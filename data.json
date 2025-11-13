@@ -1,0 +1,22 @@
+[
+  {
+    "id": "tt0111161",
+    "type": "movie",
+    "name": "The Shawshank Redemption",
+    "poster": "https://example.com/poster.jpg",
+    "description": "Two imprisoned men bond over a number of years...",
+    "streams": [
+      { "title": "1080p", "url": "https://bunny.net/shawshank_1080.mp4" }
+    ]
+  },
+  {
+    "id": "example",
+    "type": "show",
+    "name": "Game of Thrones",
+    "poster": "https://example.com/got.jpg",
+    "description": "Nine noble families fight for control of Westeros...",
+    "streams": [
+      { "title": "S01E01 720p", "url": "https://bunny.net/got_s01e01_720.mp4" }
+    ]
+  }
+]
