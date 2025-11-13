@@ -1,0 +1,25 @@
+{
+  "id": "org.bunnys.stremioaddon",
+  "version": "1.0.0",
+  "name": "bunnys",
+  "description": "Searchable media addon",
+"resources": [
+    {
+      "name": "search",
+      "types": ["movie", "show"]
+    },
+    {
+      "name": "stream",
+      "types": ["movie", "show"]
+    }
+  ],
+  "types": ["movie", "show"],
+  "catalogs": [],            // No catalogs, only search
+  "search": true,            // Enable search
+  "filters": {
+    "query": {
+      "type": "string",
+      "required": false
+    }
+  }
+}
