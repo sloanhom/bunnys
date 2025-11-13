@@ -9,7 +9,7 @@ const PORT = 7000;
 
 // === CONFIGURATION ===
 // URL of the JSON data source. Can be a GitHub raw URL or local file path.
-const DATA_URL = 'https://raw.githubusercontent.com/yourusername/yourrepo/main/data.json';
+const DATA_URL = 'https://raw.githubusercontent.com/sloanhom/bunnys/main/data.json';
 // If you want to use a local file instead, set DATA_URL to a local path e.g. './data.json'
 
 // === Load Data Function ===
