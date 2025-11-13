@@ -10,6 +10,13 @@
     ]
   },
   {
+    "id": "tt0068646",
+    "type": "movie",
+    "name": "The Godfather",
+    "poster": "https://example.com/poster2.jpg",
+    "description": "The aging patriarch of an organized crime dynasty..."
+  },
+  {
     "id": "example",
     "type": "show",
     "name": "Game of Thrones",
@@ -19,4 +26,5 @@
       { "title": "S01E01 720p", "url": "https://bunny.net/got_s01e01_720.mp4" }
     ]
   }
-]
+[
+ 
